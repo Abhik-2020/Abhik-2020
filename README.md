@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm abhik soni:
 🔭 I’m currently working on<br>Building algorithmic trading bots, and full-stack development projects.<br><br>👯 I’m looking to collaborate on<br>Trading bots, AI tools, web applications, and open-source development projects.<br><br>🤝 I’m looking for help with<br>Advanced DSA, scalable backend systems, and improving trading strategy accuracy.<br><br>🌱 I’m currently learning<br>React, Node.js, System Design, Smart Money Concepts (SMC), and Quantitative Trading.<br><br>💬 Ask me about<br>C++, Java, Python, Web Development, DSA, Trading Strategies, and MT5 Automation.<br><br>⚡ Fun fact<br>I can spend hours debugging code and analyzing charts without getting bored.
 
 
